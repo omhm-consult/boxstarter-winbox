@@ -1,0 +1,1 @@
+Install-BoxstarterPackage -PackageName $arg[0] -DisableReboots
